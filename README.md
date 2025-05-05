@@ -27,3 +27,7 @@
 2. 程序将实时截取屏幕并识别指定目标。
 3. 一旦目标被识别，程序会自动模拟鼠标点击该目标。
 
+## 📈 训练数据集
+自己截的图
+通过网盘分享的文件：traindata.tar
+链接: https://pan.baidu.com/s/1bvnQbLDUsnYBQXWz-5PyWw?pwd=nb57 提取码: nb57
